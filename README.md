@@ -6,6 +6,7 @@ A curated list of open-source contests, internships and more!
 | [Season of KDE](https://season.kde.org/) | Jan 15, 2023 | Program | Jan 24, 2023 – Apr 15, 2023 | No |
 | [Outreachy (May)](https://www.outreachy.org/) | Feb 6, 2023 | Internship | May 21, 2023 – Aug 31, 2023 | [Yes](https://www.outreachy.org/) |
 | [Winter of Code](https://winterofcode.com/) | Unknown | Mentorship | Mar 6, 2023 – Mar 28, 2023 | No |
+| [Summer of Bitcoin](https://www.summerofbitcoin.org) | April 1, 2023 | Internship | May 15 – Aug 15, 2023 | [Yes](https://guide.summerofbitcoin.org/about/what-is-summer-of-bitcoin) |
 | [Reinforcement Learning Open-Source Fest](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/) | April 3, 2023 | Mentorship | May 1, 2023 – August 15, 2023 | [Yes](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/) |
 | [Google Summer of Code](https://summerofcode.withgoogle.com/) | April 4, 2023 | Program | May 29, 2023 – Aug 28, 2023 | [Yes](https://developers.google.com/open-source/gsoc/help/student-stipends) |
 | [Summer of Haskell](https://summer.haskell.org/) | April 20, 2023 | Program | May 29, 2023 – Nov 6, 2023 | [Yes](https://summer.haskell.org/stipend.html) |
