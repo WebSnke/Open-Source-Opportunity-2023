@@ -19,6 +19,18 @@ A curated list of open-source contests, internships and more!
 | [24 Pull Requests](https://24pullrequests.com/) | Dec 1, 2023 | Program | Dec 1, 2023 – Dec 24, 2023 | No |
 | [Outreachy (December)](https://www.outreachy.org/) | Aug 31, 2023 | Internship | Dec 1, 2023 – Mar 10, 2024 | [Yes](https://www.outreachy.org/) |
 
+## Contribute
+
+To add a new entry, gather the following data:
+
+- Name
+- Registration deadline
+- Type (Internship/Mentorship/Fellowship/Program)
+- Working period
+- Stipend (Yes/No/Unknown)
+
+If you are not familiar with editing Markdown files, just submit a [new issue](https://github.com/WebSnke/Open-Source-Opportunity-2023/issues/new/choose) requesting the change.
+
 ## License
 
 <a href="https://opensource.org/license/gpl-3-0/">
