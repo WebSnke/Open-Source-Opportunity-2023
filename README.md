@@ -1,5 +1,9 @@
 # Open-Source Opportunity 2023
-A curated list of open-source contests, internships and more!
+The amount of open-source interships, mentorships and fellowships is overwhelming.\
+Which one should you choose?
+
+This repository serves as a comprehensive table to find the perfect opportunity for you.\
+Feel free to add a [new entry](https://github.com/WebSnke/Open-Source-Opportunity-2023/edit/2023/README.md). See [#Contribute](#contribute).
 
 | Name | Registration Deadline | Type | Working Period | Stipend |
 | ---- | --------------------- | ---- | -------- | ------- |
