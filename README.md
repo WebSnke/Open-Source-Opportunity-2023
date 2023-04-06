@@ -1,4 +1,7 @@
 # Open-Source Opportunity 2023
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Stars](https://img.shields.io/github/stars/WebSnke/Open-Source-Opportunity?style=flat)](https://github.com/WebSnke/Open-Source-Opportunity-2023/stargazers)
+
 The amount of open-source interships, mentorships and fellowships is overwhelming.\
 Which one should you choose?
 
