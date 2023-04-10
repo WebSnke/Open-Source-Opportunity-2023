@@ -22,7 +22,7 @@ Feel free to add a [new entry](https://github.com/WebSnke/Open-Source-Opportunit
 | [Google Season of Docs](https://developers.google.com/season-of-docs) | May 10, 2023 | Program | Jun 14, 2023 – Nov 6, 2023 | [Yes](https://developers.google.com/season-of-docs/docs/tech-writer-payments) |
 | [MLH Fellowship Summer Batch A](https://fellowship.mlh.io/) | Unknown | Fellowship | May 30, 2023 – Aug 18, 2023 | [Yes](https://help.mlh.io/en/content/is-there-a-stipend-for-participation-in-the-program?ref=search) |
 | [MLH Fellowship Summer Batch B](https://fellowship.mlh.io/) | Unknown | Fellowship | Jun 19, 2023 – Sep 8, 2023 | [Yes](https://help.mlh.io/en/content/is-there-a-stipend-for-participation-in-the-program?ref=search) |
-| [BWKI](https://www.bw-ki.de/) | Jun 2, 2023 | Contest | Oct 1, 2023 | No |
+| [Bundeswettbewerb Künstliche Intelligenz](https://www.bw-ki.de/) | Jun 2, 2023 | Contest | Oct 1, 2023 | No |
 | [Hacktoberfest](https://hacktoberfest.com/participation/) | Oct 31, 2023 | Program | Oct 1, 2023 – Oct 31, 2023 | No |
 | [24 Pull Requests](https://24pullrequests.com/) | Dec 1, 2023 | Program | Dec 1, 2023 – Dec 24, 2023 | No |
 | [Outreachy (December)](https://www.outreachy.org/) | Aug 31, 2023 | Internship | Dec 1, 2023 – Mar 10, 2024 | [Yes](https://www.outreachy.org/) |
