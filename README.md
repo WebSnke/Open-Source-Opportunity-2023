@@ -10,12 +10,12 @@ Feel free to add a [new entry](https://github.com/WebSnke/Open-Source-Opportunit
 
 | Name | Registration Deadline | Type | Working Period | Stipend | Awards |
 | ---- | --------------------- | ---- | -------------- | ------- | ------ |
-| [Season of KDE](https://season.kde.org/) | Jan 15, 2023 | Program | Jan 24, 2023 – Apr 15, 2023 | No |
-| [Outreachy (May)](https://www.outreachy.org/) | Feb 6, 2023 | Internship | May 21, 2023 – Aug 31, 2023 | [Yes](https://www.outreachy.org/) |
-| [Winter of Code](https://winterofcode.com/) | Unknown | Mentorship | Mar 6, 2023 – Mar 28, 2023 | No |
-| [Summer of Bitcoin](https://www.summerofbitcoin.org) | Apr 1, 2023 | Internship | May 15 – Aug 15, 2023 | [Yes](https://guide.summerofbitcoin.org/about/what-is-summer-of-bitcoin) |
-| [Reinforcement Learning Open-Source Fest](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/) | Apr 3, 2023 | Mentorship | May 1, 2023 – August 15, 2023 | [Yes](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/) |
-| [Google Summer of Code](https://summerofcode.withgoogle.com/) | Apr 4, 2023 | Program | May 29, 2023 – Aug 28, 2023 | [Yes](https://developers.google.com/open-source/gsoc/help/student-stipends) |
+| [Season of KDE](https://season.kde.org/) | Jan 15, 2023 | Program | Jan 24, 2023 – Apr 15, 2023 | No | [Yes, certificates and merchandise](https://season.kde.org/) |
+| [Outreachy (May)](https://www.outreachy.org/) | Feb 6, 2023 | Internship | May 21, 2023 – Aug 31, 2023 | [Yes](https://www.outreachy.org/) | Unknown |
+| [Winter of Code](https://winterofcode.com/) | Unknown | Mentorship | Mar 6, 2023 – Mar 28, 2023 | No | Unknown |
+| [Summer of Bitcoin](https://www.summerofbitcoin.org) | Apr 1, 2023 | Internship | May 15 – Aug 15, 2023 | [Yes](https://guide.summerofbitcoin.org/about/what-is-summer-of-bitcoin) | [Yes, jobs and internships](https://guide.summerofbitcoin.org/about/what-is-summer-of-bitcoin) |
+| [Reinforcement Learning Open-Source Fest](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/) | Apr 3, 2023 | Mentorship | May 1, 2023 – August 15, 2023 | [Yes](https://www.microsoft.com/en-us/research/academic-program/rl-open-source-fest/) | Unknown |
+| [Google Summer of Code](https://summerofcode.withgoogle.com/) | Apr 4, 2023 | Program | May 29, 2023 – Aug 28, 2023 | [Yes](https://developers.google.com/open-source/gsoc/help/student-stipends) | [Yes, merchandise](https://cdn-media-1.freecodecamp.org/images/1*qWTY0E_77KOG2DNlaYai9Q.png) |
 | [Google Code Jam Farewell](https://codingcompetitions.withgoogle.com/codejam) | Apr 15 2023 | Contest | Apr 15 2023, 14:00 – Apr 15 2023, 18:00 | No | [Yes, $15,000 USD](https://codingcompetitions.withgoogle.com/codejam/about/) |
 | [Summer of Haskell](https://summer.haskell.org/) | Apr 20, 2023 | Program | May 29, 2023 – Nov 6, 2023 | [Yes](https://summer.haskell.org/stipend.html) |
 | [Open Source Promotion Plan](https://summer-ospp.ac.cn/) | Apr 29, 2023 | Program | Jul 1, 2023 – Sep 30, 2023 | Unknown |
