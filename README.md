@@ -11,7 +11,10 @@ Feel free to add a [new entry](https://github.com/WebSnke/Open-Source-Opportunit
 I recommend installing [GitHub Sort Content](https://greasyfork.org/en/scripts/21373-github-sort-content) on [Greasy Fork](https://github.com/JasonBarnabe/greasyfork) to sort through this table.\
 You have to install [Tampermonkey (Firefox Add-On)](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) or [Violentmonkey (Chrome Extension)](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag) first though.
 
-| Name | Registration Deadline | Type | Working Period | Stipend | Awards |
+I also recommend [Wide GitHub](https://github.com/xthexder/wide-github) to make GitHub wide.\
+Thanks [@Mottie](https://greasyfork.org/en/users/24847-mottie) and [@xthexder](https://github.com/xthexder) for these awesome extensions!
+
+| Name | Registration deadline | Type | Working period | Stipend | Awards |
 | ---- | --------------------- | ---- | -------------- | ------- | ------ |
 | [Season of KDE](https://season.kde.org/) | Jan 15, 2023 | Program | Jan 24, 2023 – Apr 15, 2023 | No | [Yes, certificates and merchandise](https://season.kde.org/) |
 | [Outreachy (May)](https://www.outreachy.org/) | Feb 6, 2023 | Internship | May 21, 2023 – Aug 31, 2023 | [Yes, $7,000 USD](https://www.outreachy.org/) | Unknown |
