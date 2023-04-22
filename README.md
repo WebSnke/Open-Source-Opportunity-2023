@@ -30,6 +30,7 @@ Thanks [@Mottie](https://greasyfork.org/en/users/24847-mottie) and [@xthexder](h
 | [MLH Fellowship Summer Batch A](https://fellowship.mlh.io/) | Unknown | Fellowship | May 30, 2023 – Aug 18, 2023 | [Yes, determined by your track and country](https://help.mlh.io/en/content/is-there-a-stipend-for-participation-in-the-program?ref=search) | Unknown |
 | [MLH Fellowship Summer Batch B](https://fellowship.mlh.io/) | Unknown | Fellowship | Jun 19, 2023 – Sep 8, 2023 | [Yes, determined by your track and country](https://help.mlh.io/en/content/is-there-a-stipend-for-participation-in-the-program?ref=search) | Unknown |
 | [Bundeswettbewerb Künstliche Intelligenz](https://www.bw-ki.de/) | Jun 2, 2023 | Contest | Unknown | No | [Yes, 500€ – 2000€](https://www.bw-ki.de/preise) |
+| [NASA Space Apps Challenge](https://www.spaceappschallenge.org/) | Oct 7, 2023 | Hackathon | Oct 7, 2023 – Oct 8, 2023 | No | No |
 | [Hacktoberfest](https://hacktoberfest.com/participation/) | Oct 31, 2023 | Program | Oct 1, 2023 – Oct 31, 2023 | No | [Yes, merchandise or tree](https://hacktoberfest.com/participation/#faqs) |
 | [24 Pull Requests](https://24pullrequests.com/) | Dec 1, 2023 | Program | Dec 1, 2023 – Dec 24, 2023 | No | Unknown |
 | [Outreachy (December)](https://www.outreachy.org/) | Aug 31, 2023 | Internship | Dec 1, 2023 – Mar 10, 2024 | [Yes, $7,000 USD](https://www.outreachy.org/) | Unknown |
