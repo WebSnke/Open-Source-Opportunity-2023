@@ -6,13 +6,7 @@ The amount of open-source interships, mentorships and fellowships is overwhelmin
 Which one should you choose?
 
 This repository serves as a comprehensive table to find the perfect opportunity for you.\
-Feel free to add a [new entry](https://github.com/WebSnke/Open-Source-Opportunity-2023/edit/2023/README.md). See [#Contribute](#contribute).
-
-I recommend installing [GitHub Sort Content](https://greasyfork.org/en/scripts/21373-github-sort-content) on [Greasy Fork](https://github.com/JasonBarnabe/greasyfork) to sort through this table.\
-You have to install [Tampermonkey (Firefox Add-On)](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/) or [Violentmonkey (Chrome Extension)](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag) first though.
-
-I also recommend [Wide GitHub](https://github.com/xthexder/wide-github) to make GitHub wide.\
-Thanks [@Mottie](https://greasyfork.org/en/users/24847-mottie) and [@xthexder](https://github.com/xthexder) for these awesome extensions!
+Feel free to [contribute to this project](https://github.com/WebSnke/Open-Source-Opportunity-2023/edit/2023/README.md).
 
 | Name | Registration deadline | Type | Working period | Stipend | Awards |
 | ---- | --------------------- | ---- | -------------- | ------- | ------ |
@@ -37,6 +31,7 @@ Thanks [@Mottie](https://greasyfork.org/en/users/24847-mottie) and [@xthexder](h
 
 ## Contribute
 
+Only add awesome stuff and stick to the [awesome manifesto](https://github.com/sindresorhus/awesome/blob/main/awesome.md).\
 To add a new entry, gather the following data:
 
 - Name
