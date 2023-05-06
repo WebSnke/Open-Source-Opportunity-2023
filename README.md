@@ -5,7 +5,7 @@ The amount of open-source interships, mentorships and fellowships is overwhelmin
 Which one should you choose?
 
 This repository serves as a comprehensive table to find the perfect opportunity for you.\
-Feel free to [contribute to this project](https://github.com/WebSnke/Open-Source-Opportunity-2023#contribute).
+Feel free to [contribute to this project](#contribute).
 
 | Name | Registration deadline | Type | Working period | Stipend | Awards |
 | ---- | --------------------- | ---- | -------------- | ------- | ------ |
