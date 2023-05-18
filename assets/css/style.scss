@@ -1,7 +1,0 @@
-@import
-  "minima/skins/{{ site.minima.skin | default: 'classic' }}",
-  "minima/initialize";
-
-.wrapper {
-  max-width: calc(1300px - (30px * 2)) !important;
-}
